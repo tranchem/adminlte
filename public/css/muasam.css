@@ -1,0 +1,13 @@
+.box {
+	width: 200px;
+	height: 300px;
+	border: 1px solid black;
+	background-color: #fff;
+	overflow: auto;
+}
+.box img {
+	width: 165px;
+	height: 200px;
+	/*border: 1px solid yellow;*/
+	
+}

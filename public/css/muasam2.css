@@ -1,0 +1,16 @@
+.box {
+	width: 200px;
+	height: 300px;
+	border: 1px solid grey;
+	background-color: #fff;
+	overflow: auto;
+}
+.box img {
+	width: 165px;
+	height: 200px;
+	/*border: 1px solid yellow;*/
+	
+}
+.box div {
+	font-weight: bold;
+}
